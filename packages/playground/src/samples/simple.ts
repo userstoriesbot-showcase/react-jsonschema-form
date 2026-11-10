@@ -2,7 +2,7 @@ import type { Sample } from './Sample.ts';
 
 const simple: Sample = {
   schema: {
-    title: 'A registration form',
+    title: 'A simple registration form',
     description: 'A simple form example.',
     type: 'object',
     required: ['firstName', 'lastName'],
